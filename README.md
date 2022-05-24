@@ -6,14 +6,12 @@
 - Many types of semantic elements for specific types of content (header, text, images, video, bullets, line break, table, button)
 - Several types of non-semantic elements for general use (div, span)
 - Attributes to control the settings for each element (style, class, src, href)
-- <write HTML in VS Code or ask someone to share their HTML>
     
 ### What is a browser?
 
 - It is an HTML reader and translator
 - It can read html from anywhere: from a static file on your local machine, a remote server, or dynamically
 - It is the MOST universal of apps
-- <view source of dreaddontdie, prologue in a browser>
 
 ### What is client-side code vs. server-side code?
 
